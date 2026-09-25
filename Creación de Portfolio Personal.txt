@@ -1,0 +1,60 @@
+Creación de Portfolio Personal con Stitch + GitHub pages
+Ana Karen Aragón Vázquez
+•
+29 июл. (Изменено: 30 июл.)
+IA Gen
+•
+100 баллов
+|
+Срок сдачи: 9 сент.
+Objetivo
+Diseñar y desarrollar un portfolio personal utilizando Stitch como herramienta de diseño y generación de código.
+El objetivo es crear una página web que presente tu perfil profesional, exportarla a HTML y publicarla en GitHub Pages para que pueda visualizarse en línea.
+Requisitos
+El portfolio deberá incluir, como mínimo, las siguientes secciones:
+Nombre y fotografía personal.
+Breve presentación personal.
+Sobre mí.
+Formación académica.
+Habilidades técnicas (stack)
+Proyectos o trabajos destacados.
+Información de contacto.
+Además, deberá contar con:
+Al menos una fotografía personal.
+Al menos una imagen por cada proyecto presentado (capturas de pantalla, mockups o fotografías relacionadas).
+Un Header con navegación.
+Un Main con las diferentes secciones.
+Un Footer.
+Un diseño responsive.
+Una estructura clara y organizada.
+Flujo de trabajoDiseñar el portfolio en Stitch.Exportar el proyecto a HTML.Corregir el código generado si es necesario.Configurar correctamente Tailwind CSS sin utilizar el CDN, realizando una instalación local mediante npm (lo haremos en clase)Subir el proyecto a un repositorio de GitHub.Publicarlo utilizando GitHub Pages.
+
+Importante: El portfolio debe utilizar contenido propio. La fotografía principal deberá ser del estudiante (puede ser modificada o creada con IA) y los proyectos deberán incluir imágenes o capturas reales de los trabajos realizados. 
+
+Importante: No se permite utilizar el CDN de Tailwind CSS. El proyecto deberá estar configurado con una instalación local de Tailwind CSS. (sino en el GitHub pages no funciona)
+Opcional ideas
+Para obtener una mejor valoración, puedes incluir:
+Animaciones o transiciones.
+Modo claro/oscuro.
+Botones con efectos interactivos.
+Descarga del CV.
+Enlaces a GitHub, LinkedIn u otras redes profesionales.
+Formulario de contacto (sin necesidad de backend).
+Sección de tecnologías con iconos.
+Diseño personalizado más allá del generado inicialmente por Stitch.
+Entregable
+Enlace al repositorio de GitHub.
+Enlace al sitio publicado en GitHub Pages.
+Breve documento (PDF o Google Docs) indicando:
+Qué modificaciones realizaste sobre el código generado por Stitch.
+Valoración
+Se valorará especialmente:
+La correcta utilización de Stitch para generar el diseño.
+La organización y estructura del código.
+La correcta instalación y configuración de Tailwind CSS sin utilizar el CDN.
+La capacidad para comprender, modificar y mejorar el código generado por la IA.
+El diseño visual y la experiencia de usuario.
+El uso de contenido propio (fotografía personal e imágenes de los proyectos).
+La correcta publicación del proyecto en GitHub Pages.
+La calidad general del portfolio y la presentación de la información.
+Enlaces de apoyo: https://github.com/Factoria-F5-madrid/Project_Portfolio_Web
